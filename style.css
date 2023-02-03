@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    border:5px solid rgb(58, 3, 116);
+    background-color: rgb(80, 69, 52);
+    color: bisque;
+    padding: 1rem 0rem;
+}
+#textbox{
+    width: 70%;
+}
+p{
+    text-align: center;
+    background-color: rgb(80, 69, 52);
+    padding: 0.3rem 0rem;
+    color: antiquewhite;
+    font-weight: 600;
+}
+span{
+    font-size: x-large;
+}
